@@ -1,0 +1,22 @@
+{
+  "name": "vdb16-gift4code-img-diff",
+  "description": "vdb16-gift4code-img-diff",
+  "repository": "",
+  "private": "true",
+  "license": "GPL",
+  "version": "1.0.0",
+  "authors": [
+    "stojan.sljivic@gmail.com"
+  ],
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "dependencies": {
+    "node-resemble-js": "^0.1.1",
+    "pngjs": "^3.0.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": "=6.3.1"
+  }
+}
